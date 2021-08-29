@@ -85,22 +85,22 @@
       "website": "",
       "startDate": "2021-08-30",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Student Intern",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Record keeping of client's books, payroll and tax preparation",
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "The Study Hub - Kapi'olani Community College",
+      "position": "Math Tutor",
+      "website": "https://www.kapiolani.hawaii.edu/the-study-hub-lama-library-writing-and-math-mentoring/",
+      "startDate": "January 2019",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide drop-in, in-class, and Zoom individual tutoring for college algebra and basic math",
+        "•	Teach students strategies to apply math concepts in homework and preparing for tests"
       ]
     }
   ],
@@ -132,17 +132,29 @@
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+       {
+      "title": "Hawaii Society of Certified Public Accountants Scholarship",
+      "date": "Academic Year 2021-2022",
+      "awarder": "Shidler College of Business",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Associated Student of University of Hawaii (ASUH) Scholarship",
+      "date": "Spring 2021",
+      "awarder": "University of Hawaii, Kapi'olani Community College",
+      "summary": "Award for Unique Situation or Non-Traditional Student with cumulative GPA of 3.5 or higher"
+    },
+    {
+      "title": "Transfer Merit Scholarship",
+      "date": "Academic Year 2020-2021",
+      "awarder": "University of Hawaii",
+      "summary": "Community college GPA, 12 earned Manoa credits in the Fall 2020 with a Manoa GPA of at least 3.0."
+    },
+    {
+      "title": "Dean's list",
+      "date": "2018-2021",
+      "awarder": "University of Hawaii, Kapi'olani Community College",
+      "summary": "Special recognition awarded to students with a minimum GPA of 3.5."
     }
   ],
   "references": [
