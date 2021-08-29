@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Ye Jin Lee",
-    "label": "Student",
+    "label": "Shidler Undergraduate",
     "picture": "https://jenlee11.github.io/images/IMG_7986.JPG",
     "email": "yejinj@hawaii.edu",
     "phone": "808-444-5555",
     "website": "https://jenlee11.github.io",
-    "summary": "I am studying for a B.S. in Accounting and MIS at the University of Hawaii. I expect to graduate in Summer, 2022.",
+    "summary": "I am studying for a B.B.A. in Accounting and Management Information Systems in Shidler College of Business at the University of Hawaii. I expect to graduate in Summer, 2022.",
     "location": {
       "address": " Street ",
       "postalCode": "96822",
@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Traveling",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+         ]
     },
     {
-      "name": "data mining",
+      "name": "Hiking",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cooking",
       "keywords": [
       ]
     }
@@ -64,19 +62,16 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
+        ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accounting, MIS (expected Summer, 2022)",
-      "studyType": "B.S.",
-      "startDate": "2018-09-01",
+      "institution": "Shidler College of Business - University of Hawaii, Honolulu, HI",
+      "area": "Accounting, Management Information Systems (expected Summer, 2022)",
+      "studyType": "B.B.S.",
+      "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -85,10 +80,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Jack Chen CPA",
+      "position": "Tax preparer, Bookkeeper",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-08-30",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
