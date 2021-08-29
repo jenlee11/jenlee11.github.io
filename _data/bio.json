@@ -71,10 +71,21 @@
       "endDate": "Present",
       "gpa": "3.7",
       "courses": [
-        " Intermediate Financial Accounting I,II, Federal Individual Income Taxation, Accounting Information Systems, Using QuickBooks in ACC"
+        "Accounting Information Systems"
 
       ]
-    }
+    },
+    {
+      "institution": "Kapi'olani Community college, Honolulu, HI",
+      "area": "Associate of Arts in Liberal Arts, Concentration in Business",
+      "studyType": "B.B.S.",
+      "startDate": "2018",
+      "endDate": "2020",
+      "gpa": "3.89",
+      "courses": [
+        "Payroll/Hawai`i Gen Excise Tax, Individual Income Tax Prep, Using QuickBooks in ACC"
+
+      ]
   ],
   "work": [
     {
@@ -85,8 +96,8 @@
       "endDate": "Present",
       "summary": "Student Intern",
       "highlights": [
-        "Record keeping of client's books, payroll and tax preparation",
-        ""
+        "Record keeping of client's books",
+        "Perform payroll and tax preparation"
       ]
     },
     {
@@ -98,7 +109,7 @@
       "summary": "",
       "highlights": [
         "Provide drop-in, in-class, and Zoom individual tutoring for college algebra and basic math",
-        "•	Teach students strategies to apply math concepts in homework and preparing for tests"
+        "Teach students strategies to apply math concepts in homework and preparing for tests"
       ]
     }
   ],
