@@ -49,12 +49,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"        
       ]
     },
     {
@@ -73,8 +69,10 @@
       "studyType": "B.B.S.",
       "startDate": "2018",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.7",
       "courses": [
+        " Intermediate Financial Accounting I,II, Federal Individual Income Taxation, Accounting Information Systems, Using QuickBooks in ACC"
+
       ]
     }
   ],
@@ -101,33 +99,6 @@
       "highlights": [
         "Provide drop-in, in-class, and Zoom individual tutoring for college algebra and basic math",
         "•	Teach students strategies to apply math concepts in homework and preparing for tests"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
