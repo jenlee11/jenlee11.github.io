@@ -1,0 +1,14 @@
+---
+layout: essay
+type: essay
+title: E1: UI Basics Technical Essay
+date: 2021-09-16
+labels:
+  - Essay
+  - WODs
+---
+
+Still, I am miserable about this ITM class. That is because I am new and many things need to be studied by myself. I wish we had more class time to go over new concepts. I am good at following but really bad at explaining it. While doing assignments I realized how I am not understanding enough. Only after failing doing WODs, I finally recognized this need to study more. I was a little confident but never thought about DNF. However, that happened to me! I told myself “why are you even recording this if you don’t know the stuff that you are trying. I had a hard time understanding what WODs are asking me to do. Then I had to go back and watch the demo. Just following it was easy. I hesitated to delete the first WOD done, because I just wanted to submit that. But the focus is on learning not submitting it. So, I bit my tongue and deleted it. Redoing was not easy either. Only the third time, I was able to make it in time. Now I know how bad I am in this class without reviewing the modules provided.
+
+The second and third WODs were the same. I definitely couldn’t do it at once. I wonder whether I could complete the assignment or without the professor’s demos. That was my lifesaver actually. I tried to do it myself but that was not that easy. Also, I felt like I have very little knowledge on Cascading Style Sheets (CSS) because I struggled following the last part of Lab2. Fortunately, our professor provided one so I did not fall behind in class.
+I guess an advice to be successful in this class, especially with the WODs will be, to do it on time, multiple times, and not watching the videos. Look up your things online, but instead to copy it, try to understand and do it yourself.
